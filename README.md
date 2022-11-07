@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ScientistWSY
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning DevOps
+- 🌱 I’m currently learning Javascript, CSS, HTML and MySQL.
 - 💞️ I’m looking to collaborate on all that I can.
 - 📫 How to reach me in www.linkedin.com/in/wesleysilveira1
 
