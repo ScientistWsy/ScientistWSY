@@ -25,7 +25,6 @@
   <img alt="SQL" src ="https://img.shields.io/badge/SQL-%23DB3434?style=for-the-badge&logoColor=white%22"/>
 </p>
 
-
 <h3 align="left">Learning:</h3>
 <p align="left">
   <img alt="VueJS" src="https://img.shields.io/badge/vue.JS-%23239120?style=for-the-badge&logo=vue-js"/>
