@@ -1,10 +1,10 @@
 <h1 align="center"> Wesley Silveira dos Santos </h1>
 
-**Software Developer | .NET | JavaScript | SQL Server**  
+**Software Developer | React | Node.js | JavaScript | SQL Server**  
 <p align="left"> Sou um desenvolvedor de software com experiência em **.NET (C#), JavaScript, SQL Server e React**, focado no desenvolvimento de aplicações web escaláveis e soluções eficientes para problemas complexos. Tenho paixão por tecnologia, boas práticas de desenvolvimento e arquitetura de software.  
 </p>
 
-Atualmente, trabalho com **backend em .NET e frontend com React**, além de integração com APIs RESTful. Também possuo experiência em otimização de queries SQL Server e modelagem de banco de dados.  
+Atualmente, trabalho com **backend em .NET e frontend com React**, além de integração com APIs RESTful. Também possuo experiência em otimização de queries SQL Server, modelagem de banco de dados e Node.js.  
 
 📌 **Principais habilidades:**  
 ✔ **Linguagens:** C#, JavaScript, TypeScript, SQL  
